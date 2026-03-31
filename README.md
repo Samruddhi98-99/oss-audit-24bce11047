@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Vanshika Karamchandani
-* **Roll Number:** 24BCE11281
+* **Name:** Samruddhi Sawant
+* **Roll Number:** 24BCE11047
 
 ---
 
